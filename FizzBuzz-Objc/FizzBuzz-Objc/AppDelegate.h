@@ -12,4 +12,8 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
+- (BOOL)isBuzzed:(int)argument;
+
+- (BOOL)isFizzed:(int)argument;
+
 @end
