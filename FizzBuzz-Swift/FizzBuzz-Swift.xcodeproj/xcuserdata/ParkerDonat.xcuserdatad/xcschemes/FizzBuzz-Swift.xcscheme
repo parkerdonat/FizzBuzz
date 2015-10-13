@@ -14,24 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7189841019A7DA9F002779DD"
-               BuildableName = "FizzBuzz-Objc.app"
-               BlueprintName = "FizzBuzz-Objc"
-               ReferencedContainer = "container:FizzBuzz-Objc.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7189842B19A7DA9F002779DD"
-               BuildableName = "FizzBuzz-ObjcTests.xctest"
-               BlueprintName = "FizzBuzz-ObjcTests"
-               ReferencedContainer = "container:FizzBuzz-Objc.xcodeproj">
+               BlueprintIdentifier = "7197851019A7DB0C00705362"
+               BuildableName = "FizzBuzz-Swift.app"
+               BlueprintName = "FizzBuzz-Swift"
+               ReferencedContainer = "container:FizzBuzz-Swift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7189842B19A7DA9F002779DD"
-               BuildableName = "FizzBuzz-ObjcTests.xctest"
-               BlueprintName = "FizzBuzz-ObjcTests"
-               ReferencedContainer = "container:FizzBuzz-Objc.xcodeproj">
+               BlueprintIdentifier = "7197851D19A7DB0C00705362"
+               BuildableName = "FizzBuzz-SwiftTests.xctest"
+               BlueprintName = "FizzBuzz-SwiftTests"
+               ReferencedContainer = "container:FizzBuzz-Swift.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7189841019A7DA9F002779DD"
-            BuildableName = "FizzBuzz-Objc.app"
-            BlueprintName = "FizzBuzz-Objc"
-            ReferencedContainer = "container:FizzBuzz-Objc.xcodeproj">
+            BlueprintIdentifier = "7197851019A7DB0C00705362"
+            BuildableName = "FizzBuzz-Swift.app"
+            BlueprintName = "FizzBuzz-Swift"
+            ReferencedContainer = "container:FizzBuzz-Swift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -79,10 +65,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7189841019A7DA9F002779DD"
-            BuildableName = "FizzBuzz-Objc.app"
-            BlueprintName = "FizzBuzz-Objc"
-            ReferencedContainer = "container:FizzBuzz-Objc.xcodeproj">
+            BlueprintIdentifier = "7197851019A7DB0C00705362"
+            BuildableName = "FizzBuzz-Swift.app"
+            BlueprintName = "FizzBuzz-Swift"
+            ReferencedContainer = "container:FizzBuzz-Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -98,10 +84,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7189841019A7DA9F002779DD"
-            BuildableName = "FizzBuzz-Objc.app"
-            BlueprintName = "FizzBuzz-Objc"
-            ReferencedContainer = "container:FizzBuzz-Objc.xcodeproj">
+            BlueprintIdentifier = "7197851019A7DB0C00705362"
+            BuildableName = "FizzBuzz-Swift.app"
+            BlueprintName = "FizzBuzz-Swift"
+            ReferencedContainer = "container:FizzBuzz-Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

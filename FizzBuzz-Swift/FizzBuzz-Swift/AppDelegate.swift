@@ -14,14 +14,22 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(application: UIApplication!, didFinishLaunchingWithOptions launchOptions: NSDictionary!) -> Bool {
+    func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+        // Override point for customization after application launch.
         
-        // Insert code here...
-        
-        
+        for i in 1...100 {
+            if (i % 3 == 0) && (i % 5 == 0) {
+                print("FizzBuzz")
+            } else if (i % 3 == 0) {
+                print("Fizz")
+            } else if (i % 5 == 0) {
+                print("Buzz")
+            } else {
+                print(i)
+            }
+        }
         
         return true
     }
-
  }
 

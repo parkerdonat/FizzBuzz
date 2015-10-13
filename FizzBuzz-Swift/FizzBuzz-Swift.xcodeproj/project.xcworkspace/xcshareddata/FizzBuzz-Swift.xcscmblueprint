@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "568C3FCBE01FA9245C4F5BA601AF0DE86F7F9535",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5ECE8A75EEC660507C1200B9E8C0A8F209224C79" : 0,
+    "568C3FCBE01FA9245C4F5BA601AF0DE86F7F9535" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6C332969-4784-48E9-8D92-B3DB6FDBF84C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5ECE8A75EEC660507C1200B9E8C0A8F209224C79" : "",
+    "568C3FCBE01FA9245C4F5BA601AF0DE86F7F9535" : "FizzBuzz"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FizzBuzz-Swift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FizzBuzz-Swift\/FizzBuzz-Swift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DevMountain\/FizzBuzz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "568C3FCBE01FA9245C4F5BA601AF0DE86F7F9535"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/parkerdonat\/phototower.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5ECE8A75EEC660507C1200B9E8C0A8F209224C79"
+    }
+  ]
+}

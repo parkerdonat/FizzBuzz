@@ -49,7 +49,7 @@ Example Output 1-100:
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    for (int i=0; i<100; i++) {
+    for (int i=1; i<100; i++) {
         if(([self isBuzzed:i]) && ([self isFizzed:i] != YES)){
             NSLog(@"Buzz");
         } else if(([self isFizzed:i]) && ([self isBuzzed:i] != YES)){
